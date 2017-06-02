@@ -1,0 +1,6 @@
+19093m 2 128 10705920 10:42:00
+19093m.mat 16+24 200/mV 12 0 135 17159 0 ECG1
+19093m.mat 16+24 200/mV 12 0 147 -5548 0 ECG2
+# 34 M
+#Creator: wfdb2mat
+#Source: record nsrdb/19093  Start: [10:42:00.000]

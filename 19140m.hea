@@ -1,0 +1,6 @@
+19140m 2 128 11139072 11:39:00
+19140m.mat 16+24 200/mV 12 0 51 -5043 0 ECG1
+19140m.mat 16+24 200/mV 12 0 37 -21799 0 ECG2
+# 38 F
+#Creator: wfdb2mat
+#Source: record nsrdb/19140  Start: [11:39:00.000]

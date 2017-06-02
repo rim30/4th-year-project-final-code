@@ -1,0 +1,6 @@
+19830m 2 128 10701824  9:56:00
+19830m.mat 16+24 200/mV 12 0 -87 4579 0 ECG1
+19830m.mat 16+24 200/mV 12 0 -85 -29057 0 ECG2
+# 50 F
+#Creator: wfdb2mat
+#Source: record nsrdb/19830  Start: [09:56:00.000]

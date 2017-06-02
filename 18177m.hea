@@ -1,0 +1,6 @@
+18177m 2 128 11960320 11:30:00
+18177m.mat 16+24 200/mV 12 0 -43 -16498 0 ECG1
+18177m.mat 16+24 200/mV 12 0 -3 20443 0 ECG2
+# 26 F
+#Creator: wfdb2mat
+#Source: record nsrdb/18177  Start: [11:30:00.000]

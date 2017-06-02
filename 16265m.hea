@@ -1,0 +1,6 @@
+16265m 2 128 11730944  8:04:00
+16265m.mat 16+24 200/mV 12 0 -33 15756 0 ECG1
+16265m.mat 16+24 200/mV 12 0 -65 -21174 0 ECG2
+# 32 M
+#Creator: wfdb2mat
+#Source: record nsrdb/16265  Start: [08:04:00.000]
